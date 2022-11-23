@@ -1,6 +1,6 @@
 import React from 'react'
 import { Nav } from './components'
-import { Header, About } from './containers'
+import { Header, About, Features } from './containers'
 import './App.css'
 
 const App = () => {
@@ -11,6 +11,7 @@ const App = () => {
           <Header />
        </div>
        <About />
+       <Features />
     </div>
   )
 }
