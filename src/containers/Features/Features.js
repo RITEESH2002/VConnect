@@ -4,12 +4,12 @@ import './Features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'VOICE REC ICON',
+    text: 'AI used to deal with jumping to pages without the need of clicks. Quickly recognizes your request and does it in no time.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'THE SOCIAL NETWORK',
+    text: 'Need',
   },
   {
     title: 'Message or am nothing',
@@ -22,10 +22,10 @@ const featuresData = [
 ];
 
 const Features = () => (
-  <div className="gpt3__features section__padding" id="features">
+  <div className="gpt3__features section__padding" id="howtouse">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Step into Future Today. & See How to Use it.</h1>
+      <p>Advanced Technologies And Ways To Deal With It</p>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (

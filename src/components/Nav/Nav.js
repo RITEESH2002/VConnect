@@ -17,7 +17,7 @@ const Nav = () => {
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
           <p><a href="#VConnect">About VConnect</a></p>
-          <p><a href="#features">HowToUse</a></p>
+          <p><a href="#howtouse">HowToUse</a></p>
           <p><a href="#blog">ContactUs</a></p>
           <p><a href="#possibility">WorkWithUs</a></p>
         </div>
@@ -35,7 +35,7 @@ const Nav = () => {
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
             <p><a href="#VConnect">About VConnect</a></p>
-            <p><a href="#possibility">HowToUse</a></p>
+            <p><a href="#howtouse">HowToUse</a></p>
             <p><a href="#features">ContactUs</a></p>
             <p><a href="#blog">WorkWithUs</a></p>
           </div>
