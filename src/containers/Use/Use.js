@@ -1,27 +1,27 @@
 import React from 'react';
 import Feature from '../../components/Feature/Feature';
-import './Features.css';
+import './Use.css';
 
 const featuresData = [
   {
-    title: 'VOICE REC ICON',
+    title: 'VOICE RECOGNITION ICON',
     text: 'AI used to deal with jumping to pages without the need of clicks. Quickly recognizes your request and does it in no time.',
   },
   {
     title: 'THE SOCIAL NETWORK',
-    text: 'Need',
+    text: 'Requires you to SignUp (if dont have an account) or SignIn (if already have and account) and can then connect to the people you know',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'CURRENT BUZZ',
+    text: 'Whats going around the GLOBE? Get the gossips with just a click away. The news that you want will read for you;)',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'STUFFS',
+    text: 'Add Posts. Follow People. Like Posts. Comment On It. Deal with the UI with great ease without the need to scratch your head.',
   },
 ];
 
-const Features = () => (
+const Use = () => (
   <div className="gpt3__features section__padding" id="howtouse">
     <div className="gpt3__features-heading">
       <h1 className="gradient__text">Step into Future Today. & See How to Use it.</h1>
@@ -35,4 +35,4 @@ const Features = () => (
   </div>
 );
 
-export default Features;
+export default Use;

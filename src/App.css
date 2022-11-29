@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  /* widht: 100%; */
 }
 
 body {
@@ -43,6 +44,9 @@ a {
 
 .section__margin {
   margin: 4rem 6rem;
+}
+.section__margin2 {
+  margin: 0 25%;
 }
 
 .scale-up-center {

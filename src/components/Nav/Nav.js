@@ -18,8 +18,8 @@ const Nav = () => {
           <p><a href="#home">Home</a></p>
           <p><a href="#VConnect">About VConnect</a></p>
           <p><a href="#howtouse">HowToUse</a></p>
-          <p><a href="#blog">ContactUs</a></p>
-          <p><a href="#possibility">WorkWithUs</a></p>
+          <p><a href="#contact">ContactUs</a></p>
+          <p><a href="#find">FindUs</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
@@ -36,11 +36,11 @@ const Nav = () => {
             <p><a href="#home">Home</a></p>
             <p><a href="#VConnect">About VConnect</a></p>
             <p><a href="#howtouse">HowToUse</a></p>
-            <p><a href="#features">ContactUs</a></p>
-            <p><a href="#blog">WorkWithUs</a></p>
+            <p><a href="#contact">ContactUs</a></p>
+            <p><a href="#find">FindUs</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
-            <p>Sign in</p>
+            <button type="button">Sign in</button>
             <button type="button">Sign up</button>
           </div>
         </div>
